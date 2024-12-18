@@ -1,0 +1,11 @@
+body{
+  background-color: #deecf7;
+}
+
+.card-img-top{
+  height: 300px;
+}
+
+.slider-bg{
+  background-image: linear-gradient(180deg, #070c10 50%, #f7f2ffc4 50%);
+}
